@@ -48,14 +48,22 @@ Bu projeyi kendi ortamınıza kurmak için aşağıdaki adımları izleyin:
 Ekran Görüntüleri
 -----------------
 
-Projenin bazı ekran görüntüleri:
+Aşağıda proje ile ilgili ekran görüntülerini bulabilirsiniz:
 
-screeshot;
-https://m-dns.org/media/blog1.png
-https://m-dns.org/media/blog2.png
-https://m-dns.org/media/blog3.png
-https://m-dns.org/media/blog4.png
-https://m-dns.org/media/blog5.png
+### Ana Sayfa
+![Ana Sayfa](https://m-dns.org/media/blog1.png)
+
+### Blog Yazısı Görünümü
+![Blog Yazısı Görünümü](https://m-dns.org/media/blog2.png)
+
+### Yönetici Paneli - Gönderi Yönetimi
+![Yönetici Paneli - Gönderi Yönetimi](https://m-dns.org/media/blog3.png)
+
+### Yönetici Paneli - Kategori Yönetimi
+![Yönetici Paneli - Kategori Yönetimi](https://m-dns.org/media/blog4.png)
+
+### Blog Ayarları
+![Blog Ayarları](https://m-dns.org/media/blog5.png)
 
 Katkıda Bulunma
 ---------------
