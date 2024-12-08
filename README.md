@@ -50,9 +50,12 @@ Ekran Görüntüleri
 
 Projenin bazı ekran görüntüleri:
 
-*   **Ana Sayfa:** ![Ana Sayfa Görseli](https://via.placeholder.com/800x400)
-*   **Blog Yazısı:** ![Blog Yazısı Görseli](https://via.placeholder.com/800x400)
-*   **Yönetici Paneli:** ![Yönetici Paneli Görseli](https://via.placeholder.com/800x400)
+screeshot;
+https://m-dns.org/media/blog1.png
+https://m-dns.org/media/blog2.png
+https://m-dns.org/media/blog3.png
+https://m-dns.org/media/blog4.png
+https://m-dns.org/media/blog5.png
 
 Katkıda Bulunma
 ---------------
